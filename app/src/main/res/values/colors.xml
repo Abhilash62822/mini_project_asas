@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <color name="primary">#56f050</color>
+  <color name="primary_dark">#ff9966</color>
+  <color name="primary_darker">#e57174</color>
+  <color name="accent">#ff9966</color>
+
+  <color name="black">#396afc</color>
+  <color name="jet">#396afc</color>
+  <color name="oil">#396afc</color>
+  <color name="monsoon">#396afc</color>
+  <color name="jumbo">#396afc</color>
+  <color name="aluminum">#396afc</color>
+  <color name="base">#396afc</color>
+  <color name="iron">#396afc</color>
+  <color name="white">#396afc</color>
+</resources>

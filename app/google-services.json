@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "33975008411",
+    "firebase_url": "https://mini-project-asas.firebaseio.com",
+    "project_id": "mini-project-asas",
+    "storage_bucket": "mini-project-asas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33975008411:android:e60aeff65cae8072",
+        "android_client_info": {
+          "package_name": "com.sourcey.materiallogindemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "33975008411-8p1nht2oe3vkflas0mqoflhmvo1nt4ke.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sourcey.materiallogindemo",
+            "certificate_hash": "3fea116b7501020adff1a832438a6a279bea7cd7"
+          }
+        },
+        {
+          "client_id": "33975008411-dedl4nnsqm46jf7qigq5dfbqphnnuepq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg7s1kqdFpAN2pxkCdjfxueuqd3UZNx7w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "33975008411-dedl4nnsqm46jf7qigq5dfbqphnnuepq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
